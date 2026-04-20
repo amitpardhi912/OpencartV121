@@ -17,7 +17,8 @@ public class TC002_LoginTest extends BaseClass {
 		
 		logger.info("*****Starting TC002_LoginTest*****");
 		
-		try {
+		try 
+		{
 		
 		//Homepage
 		HomePage hp = new HomePage(driver);

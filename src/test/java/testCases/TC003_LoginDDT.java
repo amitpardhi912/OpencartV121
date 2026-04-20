@@ -1,4 +1,4 @@
-package testCases;
+ package testCases;
 
 
 import org.testng.Assert;
@@ -43,7 +43,6 @@ public class TC003_LoginDDT extends BaseClass{
 		Data is invalid - login failed - test pass
 		*/
 		
-		
 		if(exp.equalsIgnoreCase("Valid"))
 		{
 			if(targetPage==true)
@@ -82,20 +81,5 @@ public class TC003_LoginDDT extends BaseClass{
 		 logger.info("*****Finished TC003_LoginDDT*****");
 		 
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 }

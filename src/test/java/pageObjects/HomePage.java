@@ -19,7 +19,7 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//a[normalize-space()='Register']")
 	WebElement lnkRegister;
 	
-	@FindBy(linkText = "Login")
+	@FindBy(linkText = "Login")     //Login link added on step 5
 	WebElement linkLogin;
 	
 	

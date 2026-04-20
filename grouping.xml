@@ -9,7 +9,7 @@
                  <include name="Master"/> 
                 <!-- <include name="Sanity"/>  -->
                 <!--  <include name="Regression"/> -->
-                <!--  <exclude name=""/>           -->
+                <!--  <exclude name=""/> -->
       </run>
   </groups>
 
@@ -17,8 +17,6 @@
          <listener class-name="utilities.ExtentReportManager"/>
  </listeners>
   
-
-
 
   <test thread-count="5" name="Test">
   
@@ -34,7 +32,4 @@
     </test> <!-- Test -->
     
     
-    
-    
-    
-</suite> <!-- Suite -->
+  </suite> <!-- Suite -->

@@ -1,18 +1,11 @@
-2025-12-08 22:50:07 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001_AccountRegistrationTest *****
-2025-12-08 22:50:07 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount Link
-2025-12-08 22:50:08 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register Link
-2025-12-08 22:50:08 INFO  TC001_AccountRegistrationTest:34 - Providing customer details....
-2025-12-08 22:50:09 INFO  TC001_AccountRegistrationTest:50 - Validation expected message..
-2025-12-08 22:50:09 INFO  TC001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
-2025-12-08 23:26:56 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001_AccountRegistrationTest *****
-2025-12-08 23:26:56 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount Link
-2025-12-08 23:26:57 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register Link
-2025-12-08 23:26:57 INFO  TC001_AccountRegistrationTest:34 - Providing customer details....
-2025-12-08 23:26:58 INFO  TC001_AccountRegistrationTest:50 - Validation expected message..
-2025-12-08 23:26:58 INFO  TC001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
-2025-12-08 23:28:16 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001_AccountRegistrationTest *****
-2025-12-08 23:28:17 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount Link
-2025-12-08 23:28:17 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register Link
-2025-12-08 23:28:17 INFO  TC001_AccountRegistrationTest:34 - Providing customer details....
-2025-12-08 23:28:19 INFO  TC001_AccountRegistrationTest:50 - Validation expected message..
-2025-12-08 23:28:19 INFO  TC001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-17 14:01:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\SeleniumAutomationPracticeSDET\OpencartV121\master.xml
+
+2026-04-17 14:01:08 INFO  TC001_AccountRegistrationTest:16 - **** Starting TC001_AccountRegistrationTest ****
+2026-04-17 14:01:08 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2026-04-17 14:01:08 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link
+2026-04-17 14:01:08 INFO  TC001_AccountRegistrationTest:32 - Providing customer details....
+2026-04-17 14:01:11 INFO  TC001_AccountRegistrationTest:48 - Validation expected message..
+2026-04-17 14:01:11 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-17 14:01:14 INFO  TC002_LoginTest:18 - *****Starting TC002_LoginTest*****
+2026-04-17 14:01:16 INFO  TC002_LoginTest:46 - *****Finished TC_002_LoginTest*****

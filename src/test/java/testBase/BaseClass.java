@@ -53,6 +53,10 @@ public Properties p ;
             {
             	  capabilities.setPlatform(Platform.WIN11);
             }
+            else if(os.equalsIgnoreCase("linux"))
+            {
+            	capabilities.setPlatform(Platform.LINUX);
+            }
             else if (os.equalsIgnoreCase("mac"))
             {
             	  capabilities.setPlatform(Platform.MAC);
@@ -68,6 +72,7 @@ public Properties p ;
             {
             case "chrome":capabilities.setBrowserName("chrome");break;
             case "edge" : capabilities.setBrowserName("MicrosoftEdge");break;
+            case "firefox" : capabilities.setBrowserName("firefox");break;
             default: System.out.println("No matching browser");return;
             }
             
@@ -144,15 +149,5 @@ public Properties p ;
 
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }

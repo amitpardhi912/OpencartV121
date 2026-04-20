@@ -1,4 +1,4 @@
-package testCases;
+  package testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -9,13 +9,11 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass{
 
-	
-	
 	@Test(groups={"Regression","Master"})
 	public void verify_account_registration()
 	{   
 		
-		logger.info("**** Starting TC001_AccountRegistrationTest *****");
+		logger.info("**** Starting TC001_AccountRegistrationTest ****");
 		
 		try
 		{
@@ -62,7 +60,7 @@ public class TC001_AccountRegistrationTest extends BaseClass{
 		
 		    logger.info("***** Finished TC001_AccountRegistrationTest *****");
 		
-}
+    }
 	
 	   
 	
